@@ -186,8 +186,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@dumindu2041329](https://github.com/dumindu2041329)
+- LinkedIn: [Dumindu Damsara](https://www.linkedin.com/in/dumindu-damsara-0049ab246/)
 
 ## 🙏 Acknowledgments
 
