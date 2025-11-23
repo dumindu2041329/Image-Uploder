@@ -200,7 +200,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Support
 
-If you have any questions or need help, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need help, please open an issue or contact [dumindudamsara60@gmail.com](mailto:dumindudamsara60@gmail.com).
 
 ---
 
