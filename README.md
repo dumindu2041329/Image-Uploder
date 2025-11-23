@@ -168,7 +168,6 @@ The app uses the following Parse classes:
 |----------|-------------|----------|
 | `VITE_PARSE_APPLICATION_ID` | Your Parse application ID | ✅ |
 | `VITE_PARSE_JAVASCRIPT_KEY` | Your Parse JavaScript key | ✅ |
-| `VITE_PARSE_SERVER_URL` | Parse server URL | ✅ |
 
 ## 🤝 Contributing
 
